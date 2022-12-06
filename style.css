@@ -1,0 +1,42 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+body {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    min-height: 150vh;
+    align-items: center
+
+}
+.btn-run{
+    margin-top: 20px;
+}
+
+.output-container {
+    font-size: 100px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.btn-run {
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 20px;
+}
+.container {
+    margin-top: 150px;
+}
+.container-1 {
+    margin-top: 120px;
+}
+.output-container{
+    color: red;
+}
